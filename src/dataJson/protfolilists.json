@@ -212,7 +212,7 @@
     {
         "id": 8,
         "img": "/assets/img/portfolio/portfolio_8.jpg",
-        "title": "Smoke Spagaati",
+        "title": "Smoke Spaghetti",
         "subtitle": "Italian",
         "portfoliodetails": {
             "category": "Italian",
@@ -240,6 +240,7 @@
         }
     },
     {
+
         "id": 9,
         "img": "/assets/img/portfolio/portfolio_9.jpg",
         "title": "Paneer Tikka Pizza",

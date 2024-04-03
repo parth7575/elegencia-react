@@ -14,7 +14,7 @@ const Footertext = {
   addresstwo: " H2K 4J6, Canada",
   timeone: "SUNDAY - THURSDAY: 11:30AM - 11PM",
   timetwo: "FRIDAY & SATURDAY: 11:30AM - 12AM",
-  copyright: "@Copyright 2023 All Right Reserved",
+  copyright: "©2024 Elegencia | All Rights Reserved ",
 };
 
 const Footernav = [
