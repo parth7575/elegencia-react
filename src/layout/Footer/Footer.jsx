@@ -8,8 +8,8 @@ import elegenciaLogo from "/assets/img/logo/Elegencia.png";
 
 const Footertext = {
   email: "info@elegencia.com",
-  phoneone: "1-800-915-6271",
-  phonetwo: "1-800-915-6271",
+  phoneone: "+1-800-700-6271",
+  phonetwo: "+1-800-915-8995",
   addressone: "2726 Av. PapineauMontreal",
   addresstwo: " H2K 4J6, Canada",
   timeone: "SUNDAY - THURSDAY: 11:30AM - 11PM",

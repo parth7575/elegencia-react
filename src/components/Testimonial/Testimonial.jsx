@@ -12,16 +12,16 @@ const testimonialInfo = [
   {
     img: "/assets/img/testimonial/testimonial_2.jpg",
     title: "K. Roberts",
-    subtitle: "From ",
+    subtitle: "From CAD",
     content:
-      "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
+      "“Nestled within the heart of Montreal, Elegencia offers a culinary experience like no other. From the moment you enter, the inviting atmosphere sets the stage for an unforgettable dining adventure. Each dish, meticulously crafted by a team of passionate chefs, showcases a harmonious blend of the finest ingredients and innovative techniques. ”",
   },
   {
     img: "/assets/img/testimonial/testimonial_3.jpg",
     title: "Jon K. Sun",
-    subtitle: "From ",
+    subtitle: "From UK ",
     content:
-      "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
+      "“Upon stepping into the welcoming ambiance of Elegencia, I was greeted by an atmosphere brimming with warmth and elegance. As I perused the menu, it became evident that the culinary team's passion for their craft extended far beyond mere sustenance. With each dish meticulously curated, the fusion of premium ingredients and innovative techniques promised an unforgettable dining experience.”",
   },
 ];
 
