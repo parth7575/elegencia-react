@@ -154,8 +154,8 @@
     ],
     "bgImgShow": "/assets/img/bg/barMenuBg.png",
     "headingtext": {
-      "title": "Bar Items",
-      "subTitle": "Juice Bar",
+      "title": "Desserts",
+      "subTitle": "Sweet dreams",
       "tyle": "center"
     }
   },
@@ -233,8 +233,8 @@
       }
     ],
     "headingtext": {
-      "title": "Desserts",
-      "subTitle": "Sweet dreams",
+      "title": "Bar Items",
+      "subTitle": "Juice bar",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
