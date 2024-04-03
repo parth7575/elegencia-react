@@ -7,73 +7,73 @@ import itemShow from "/assets/img/itemShow/food-menu.png";
 
 const foodMenu = [
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Paneer Tikka Pizza",
+    price: "$50",
     image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Pizza",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Spicy Paneer Burger",
+    price: "$25",
     image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Burger",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Cheesy French Fries",
+    price: "$20",
     image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Fries",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Smoked Spaghetti",
+    price: "$25",
     image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Spaghetti ",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Vegetable Samosa",
+    price: "$15",
     image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Samosa",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Saffron Chat",
+    price: "$10",
     image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "chat",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Spring Rolls",
+    price: "$15",
     image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Spring rolls",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Fried Cheese Ravioli",
+    price: "$10",
     image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Ravioli",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Garlic Bread",
+    price: "$10",
     image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Garlic Bread",
     priceSubTitle: "Extra free juice",
   },
   {
-    title: "Spaghetti alla Carbonara",
-    price: "$49",
+    title: "Jalapeno Proppers",
+    price: "$9",
     image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Proppers",
     priceSubTitle: "Extra free juice",
   },
 ];
@@ -85,7 +85,7 @@ export default function FoodMenuHome({ styleTwo }) {
       <div className="container">
         <SectionTitle
           title={"Appetizers"}
-          subTitle={"Ap"}
+          subTitle={"Appetizers"}
           tyle={"center"}
         />
         <div className="ak-height-65 ak-height-lg-30"></div>
