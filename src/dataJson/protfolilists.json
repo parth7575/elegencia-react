@@ -2,11 +2,11 @@
     {
         "id": 1,
         "img": "/assets/img/portfolio/portfolio_1.jpg",
-        "title": "Spaghetti Carbonara",
+        "title": "Wildberry Cake",
         "subtitle": "Desserts",
         "portfoliodetails": {
             "category": "Desserts",
-            "date": "5 July 2023",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
@@ -32,11 +32,11 @@
     {
         "id": 2,
         "img": "/assets/img/portfolio/portfolio_2.jpg",
-        "title": "Spaghetti Carbonara",
+        "title": "Chocolate Fondue",
         "subtitle": "Desserts",
         "portfoliodetails": {
             "category": "Desserts",
-            "date": "5 July 2023",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
@@ -62,11 +62,11 @@
     {
         "id": 3,
         "img": "/assets/img/portfolio/portfolio_3.jpg",
-        "title": "Spaghetti Carbonara",
+        "title": "Waffels",
         "subtitle": "Desserts",
         "portfoliodetails": {
             "category": "Desserts",
-            "date": "5 July 2023",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
@@ -92,15 +92,15 @@
     {
         "id": 4,
         "img": "/assets/img/portfolio/portfolio_4.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Burgar",
+        "subtitle": "American",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "American",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
-                "Tasty",
+                "Spicy",
                 "Sweet"
             ],
             "portfolioSlider": [
@@ -122,15 +122,15 @@
     {
         "id": 5,
         "img": "/assets/img/portfolio/portfolio_5.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Saffron Chaat",
+        "subtitle": "Indian",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "Indian",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
-                "Tasty",
+                "Tangy",
                 "Sweet"
             ],
             "portfolioSlider": [
@@ -152,11 +152,11 @@
     {
         "id": 6,
         "img": "/assets/img/portfolio/portfolio_6.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Samosa",
+        "subtitle": "Indian Snacks",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "Indian",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
@@ -182,16 +182,16 @@
     {
         "id": 7,
         "img": "/assets/img/portfolio/portfolio_7.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Corn Paneer",
+        "subtitle": "Indian maincourse",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "Indian",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
                 "Tasty",
-                "Sweet"
+                "Spicy"
             ],
             "portfolioSlider": [
                 {
@@ -212,16 +212,16 @@
     {
         "id": 8,
         "img": "/assets/img/portfolio/portfolio_8.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Smoke Spagaati",
+        "subtitle": "Italian",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "Italian",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
-                "Tasty",
-                "Sweet"
+                "Spicy",
+                "Smoky"
             ],
             "portfolioSlider": [
                 {
@@ -242,11 +242,11 @@
     {
         "id": 9,
         "img": "/assets/img/portfolio/portfolio_9.jpg",
-        "title": "Spaghetti Carbonara",
-        "subtitle": "Desserts",
+        "title": "Paneer tikka PIzza",
+        "subtitle": "Pizza",
         "portfoliodetails": {
-            "category": "Desserts",
-            "date": "5 July 2023",
+            "category": "Italian",
+            "date": "5 April 2024",
             "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories.",
             "shortdesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. ",
             "tags": [
