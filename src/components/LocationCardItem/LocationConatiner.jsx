@@ -26,7 +26,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4 style-1">
             <Link to="#">
@@ -48,7 +48,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4">
             <Link to="#">
@@ -70,7 +70,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
         </div>
       </div>
@@ -97,7 +97,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4 style-1">
             <Link to="#">
@@ -119,7 +119,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4">
             <Link to="#">
@@ -141,7 +141,7 @@ export default function LocationConatiner() {
             <h6 className="card-title"> New York</h6>
             <p className="card-subtext">901 N Pitt Str., Suite 170</p>
             <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <p>info@elegencia.com </p>
           </div>
         </div>
       </div>

@@ -7,14 +7,14 @@ import footerBg from "/assets/img/bg/footer_bg.png";
 import elegenciaLogo from "/assets/img/logo/Elegencia.png";
 
 const Footertext = {
-  email: "info@example.com",
+  email: "info@elegencia.com",
   phoneone: "1-800-915-6271",
   phonetwo: "1-800-915-6271",
   addressone: "2726 Av. PapineauMontreal",
   addresstwo: " H2K 4J6, Canada",
   timeone: "SUNDAY - THURSDAY: 11:30AM - 11PM",
   timetwo: "FRIDAY & SATURDAY: 11:30AM - 12AM",
-  copyright: "Copyright 2023 All Right Reserved",
+  copyright: "@Copyright 2023 All Right Reserved",
 };
 
 const Footernav = [
