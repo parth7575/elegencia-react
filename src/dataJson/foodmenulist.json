@@ -2,78 +2,78 @@
   {
     "foodMenu": [
       {
-        "title": "Spaghetti alla Carbonara",
-        "price": "$49",
+        "title": "Paneer Tikka Pizza",
+        "price": "$50",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Pizza",
+        "priceSubTitle": "Extra ketchup free "
       },
       {
-        "title": "Caviar-topped Oysters",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Spicy Paneer Burger",
+        "price": "$25",
+        "image": "/assets/img/itemShow/item-show_2.png",
+        "subTitle": "Burger",
+        "priceSubTitle": "Extra ketchup free "
       },
       {
-        "title": "Croquetas de jamón",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Cheesy French Fries",
+        "price": "$20",
+        "image": "/assets/img/itemShow/item-show_3.png",
+        "subTitle": "Fries",
+        "priceSubTitle": "Extra ketchup free "
       },
       {
-        "title": "Foie Gras and Fig Terrine",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Smoked Spaghetti",
+        "price": "$25",
+        "image": "/assets/img/itemShow/item-show_4.png",
+        "subTitle": "Spaghetti",
+        "priceSubTitle": "Extra juice free "
       },
       {
-        "title": "paella valenciana",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Vegetable Samosa",
+        "price": "$15",
+        "image": "/assets/img/itemShow/item-show_5.png",
+        "subTitle": "Samosa",
+        "priceSubTitle": "Extra Chutney free "
       },
       {
-        "title": "Truffle-infused Filet Mignon",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Dahi Chat",
+        "price": "$20",
+        "image": "/assets/img/itemShow/item-show_6.png",
+        "subTitle": "Chat",
+        "priceSubTitle": "Extra dahi free "
       },
       {
-        "title": "Peri Peri Prawns",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Spring Rolls",
+        "price": "$15",
+        "image": "/assets/img/itemShow/item-show_7.png",
+        "subTitle": "Spring Rolls",
+        "priceSubTitle": "Extra ketchup free "
       },
       {
-        "title": "Butter Poached Lobster",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Fried Cheese Ravioli",
+        "price": "$10",
+        "image": "/assets/img/itemShow/item-show_8.png",
+        "subTitle": "Ravioli",
+        "priceSubTitle": "Extra sauce free "
       },
       {
-        "title": "Golden Saffron Risotto",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Garlic Bread",
+        "price": "$10",
+        "image": "/assets/img/itemShow/item-show_9.png",
+        "subTitle": "Garlic Bread",
+        "priceSubTitle": "Extra ketchup free "
       },
       {
-        "title": "Herb-Crusted Rack of Lamb",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Jalapeno Proppers",
+        "price": "$9",
+        "image": "/assets/img/itemShow/item-show_10.png",
+        "subTitle": "Proppers",
+        "priceSubTitle": "Extra ketchup free "
       }
     ],
     "headingtext": {
-      "title": "",
+      "title": "Appetizers",
       "subTitle": "Appetizers",
       "tyle": "center"
     },
@@ -82,74 +82,74 @@
   {
     "foodMenu": [
       {
-        "title": "Vienetta (Netherlands)",
+        "title": "Vienetta ",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_11.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Apple Strudel (Austria)",
+        "title": "Apple Strudel ",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_12.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
         "title": "Tiramisu",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_13.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Foie Gras and Fig Terrine",
+        "title": "Custard Tart",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_14.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Apple Strudel",
+        "title": "Apple Pie",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_15.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Truffle-infused Filet Mignon",
+        "title": "Mousse",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_16.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
         "title": "Crème Brûlée",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_17.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Butter Poached Lobster",
+        "title": "Puddings",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_18.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
         "title": "Black Forest Cake",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_19.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       },
       {
-        "title": "Pastéis de Nata (Portugal)",
+        "title": "Pastéis de Nata ",
         "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "image": "/assets/img/itemShow/item-show_20.png",
+        "subTitle": "",
+        "priceSubTitle": ""
       }
     ],
     "bgImgShow": "/assets/img/bg/barMenuBg.png",
@@ -162,78 +162,78 @@
   {
     "foodMenu": [
       {
-        "title": "Guinness Irelandian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Mango",
+        "price": "$50",
+        "image": "/assets/img/itemShow/item-show_21.png",
+        "subTitle": "Summer Refreshment",
+        "priceSubTitle": ""
       },
       {
-        "title": "Scotch Whisky Scotland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Passion Fruit",
+        "price": "$55",
+        "image": "/assets/img/itemShow/item-show_22.png",
+        "subTitle": "Tropical Punch",
+        "priceSubTitle": ""
       },
       {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Fusion (MAngo + Passion Fruit)",
+        "price": "$60",
+        "image": "/assets/img/itemShow/item-show_23.png",
+        "subTitle": "Definitive Tropical Combination",
+        "priceSubTitle": ""
       },
       {
-        "title": "Jägermeister Germany",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Passion Tropic",
+        "price": "$70",
+        "image": "/assets/img/itemShow/item-show_24.png",
+        "subTitle": "Combinations of Berry,Peach,Pineapple,Cream",
+        "priceSubTitle": ""
       },
       {
-        "title": "Pilsner Urquell Czech",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Margarita",
+        "price": "$65",
+        "image": "/assets/img/itemShow/item-show_25.png",
+        "subTitle": "Combinations of Mango,berry & Passion Fruit",
+        "priceSubTitle": ""
       },
       {
-        "title": "Port Wine (Portugal)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Mint Mojito",
+        "price": "$40",
+        "image": "/assets/img/itemShow/item-show_26.png",
+        "subTitle": "Mixture Of Mint & Lime",
+        "priceSubTitle": ""
       },
       {
-        "title": "Pavlova (New Zealand)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Watermelon Mojito",
+        "price": "$45",
+        "image": "/assets/img/itemShow/item-show_27.png",
+        "subTitle": "Classic Mojito Mixed with Watermelon",
+        "priceSubTitle": ""
       },
       {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Melon Mojito",
+        "price": "$45",
+        "image": "/assets/img/itemShow/item-show_28.png",
+        "subTitle": "Classic Mojito mixed with melon",
+        "priceSubTitle": ""
       },
       {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "MAI TAI",
+        "price": "$80",
+        "image": "/assets/img/itemShow/item-show_29.png",
+        "subTitle": "Orange,Golden Pineapple,Apricot & Almonds",
+        "priceSubTitle": ""
       },
       {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "Blueberry Lime",
+        "price": "$55",
+        "image": "/assets/img/itemShow/item-show_30.png",
+        "subTitle": "Mixed Of Blueberry,Lime Juice & Mint Leaves",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
-      "title": "Bar Items",
+      "title": "Moktails",
       "subTitle": "Juice bar",
       "tyle": "center"
     },

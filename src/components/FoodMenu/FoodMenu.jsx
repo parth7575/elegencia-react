@@ -18,7 +18,7 @@ const foodMenu = [
     price: "$25",
     image: "/assets/img/itemShow/item-show_2.png",
     subTitle: "Burger",
-    priceSubTitle: "Extra Ketchup free",
+    priceSubTitle: "Extra ketchup free",
   },
   {
     title: "Cheesy French Fries",
@@ -32,7 +32,7 @@ const foodMenu = [
     price: "$25",
     image: "/assets/img/itemShow/item-show_4.png",
     subTitle: "Spaghetti ",
-    priceSubTitle: "Extra free juice",
+    priceSubTitle: "Extra juice free",
   },
   {
     title: "Vegetable Samosa",
@@ -42,10 +42,10 @@ const foodMenu = [
     priceSubTitle: "Extra chutney free",
   },
   {
-    title: "Saffron Chat",
-    price: "$10",
+    title: "Dahi Chat",
+    price: "$20",
     image: "/assets/img/itemShow/item-show_6.png",
-    subTitle: "chat",
+    subTitle: "Chat",
     priceSubTitle: "Extra dahi free",
   },
   {
@@ -60,7 +60,7 @@ const foodMenu = [
     price: "$10",
     image: "/assets/img/itemShow/item-show_8.png",
     subTitle: "Ravioli",
-    priceSubTitle: "Extra sause free",
+    priceSubTitle: "Extra sauce free",
   },
   {
     title: "Garlic Bread",
