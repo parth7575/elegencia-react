@@ -5,8 +5,8 @@
         "name": "JESAL mehta",
         "img": "/assets/img/chef/chef_1.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "My tenure at Elegencia has been a testament to my commitment to culinary excellence and the art of hospitality. As a Head Chef at Elegencia, I have had the privilege of leading a team of talented culinary professionals in delivering exceptional dining experiences to our esteemed guests. Elegencia's dedication to luxury and sophistication resonates deeply with my own culinary philosophy, allowing me to create menus that not only showcase exquisite flavors but also embody elegance and refinement. Collaborating closely with the restaurant's management team, I have played a pivotal role in curating seasonal menus, conceptualizing special events, and ensuring that every aspect of the dining experience exceeds expectations. Whether orchestrating elaborate tasting menus or crafting personalized culinary experiences for private events, I take pride in delivering a level of excellence that is synonymous with the Elegencia brand. ",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
@@ -51,8 +51,8 @@
         "name": "HIRAL PATEL",
         "img": "/assets/img/chef/chef_3.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "As an Indian chef, my culinary journey is a vibrant tapestry woven with the rich spices, diverse flavors, and centuries-old traditions of India. Growing up amidst the bustling streets and aromatic kitchens of my homeland, I developed a deep appreciation for the intricate art of Indian cuisine. From the fragrant biryanis of Hyderabad to the fiery curries of Kerala, my culinary repertoire is a reflection of the kaleidoscope of flavors found across the subcontinent. Drawing inspiration from age-old recipes passed down through generations and infusing them with modern techniques, I strive to create dishes that celebrate the depth and complexity of Indian flavors. Whether crafting soul-warming comfort foods or innovative fusion creations, my goal is to transport diners on a sensory journey through the diverse landscapes of India. With a commitment to quality, authenticity, and creativity, I am dedicated to sharing the vibrant and delicious treasures of Indian cuisine with food enthusiasts around the world.",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
@@ -97,8 +97,8 @@
         "name": "Wesley Story",
         "img": "/assets/img/chef/chef_5.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "My culinary journey as an Italian chef has been marked by a commitment to excellence, creativity, and a deep reverence for the rich tapestry of flavors that define Italian cuisine. With a foundation rooted in the vibrant food culture of Italy, I have had the privilege of honing my skills in some of the most renowned kitchens across the globe. My time at Elegencia has been particularly transformative, as I've had the opportunity to merge the timeless elegance of Italian gastronomy with the sophisticated dining experience that Elegencia is known for. Collaborating with a team of culinary professionals, I've curated menus that showcase the diversity and authenticity of Italian cuisine, from classic favorites to innovative reinterpretations. Each dish is meticulously crafted with the finest seasonal ingredients, ensuring that every bite transports diners to the sun-drenched hillsides of Tuscany or the bustling markets of Naples.",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
@@ -117,11 +117,11 @@
     {
         "id": 6,
         "posation": "Indian Specialist",
-        "name": "Michael Laseter",
+        "name": "Harsh Chavda ",
         "img": "/assets/img/chef/chef_6.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "Steeped in the vibrant culinary traditions of India, I bring a deep-rooted passion for flavor and innovation to my role as an Indian chef. Raised in the heart of a country renowned for its diverse cuisine, I have been privileged to immerse myself in the rich tapestry of spices, techniques, and regional specialties that define Indian gastronomy. From the bustling street markets of Mumbai to the serene backwaters of Kerala, each corner of India offers its own unique culinary treasures, and I have made it my mission to explore and celebrate them all. Drawing inspiration from the vibrant colors and bold flavors of my heritage, I create dishes that pay homage to tradition while pushing the boundaries of creativity. Whether crafting classic dishes with a modern twist or inventing innovative fusion creations, my goal is to evoke the essence of India's culinary landscape in every bite. With a dedication to quality, authenticity, and a relentless pursuit of culinary excellence, I am proud to share the vibrant and diverse flavors of India with diners around the world.",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",

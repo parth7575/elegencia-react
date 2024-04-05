@@ -8,12 +8,11 @@ import elegenciaLogo from "/assets/img/logo/Elegencia.png";
 
 const Footertext = {
   email: "info@elegencia.com",
-  phoneone: "+1-800-700-6271",
-  phonetwo: "+1-800-915-8995",
-  addressone: "2726 Av. Papineau Montreal",
-  addresstwo: " H2K 4J6, Canada",
-  timeone: "SUNDAY - THURSDAY: 11:30AM - 11PM",
-  timetwo: "FRIDAY & SATURDAY: 11:30AM - 12AM",
+  phoneone: "+91-6353616891",
+  addressone: "101 & 102 Utsav Galani Park, Nana Varachha, Surat.",
+
+  timeone: "MONDAY - FRIDAY: 11:30AM - 11PM",
+  timetwo: "SATURDAY & SUNDAY: 11:30AM - 12AM",
   copyright: "©2024 Elegencia | All Rights Reserved ",
 };
 

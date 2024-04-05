@@ -15,7 +15,7 @@ export default function Main() {
     <>
       <Header />
       <Outlet />
-      { pathname == "/comming-soon" ? (
+      {pathname == "/error-pages" || pathname == "/comming-soon" ? (
         " "
       ) : (
         <Footer />
