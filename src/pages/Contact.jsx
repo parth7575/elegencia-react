@@ -19,7 +19,7 @@ export default function Contact() {
             <CommentConatctFrom />
           </div>
           <div className="contact-map">
-            <GoogleMap addressLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96652.27317354927!2d-74.33557928194516!3d40.79756494697628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a82f1352d0dd%3A0x81d4f72c4435aab5!2sTroy+Meadows+Wetlands!5e0!3m2!1sen!2sbd!4v1563075599994!5m2!1sen!2sbd" />
+            <GoogleMap addressLink="https://www.google.com/maps/dir/21.2049469,72.7688223/d+pizza+varachha/@21.2111499,72.7443323,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be04f4a01c568eb:0x5bbaa4793a72c308!2m2!1d72.8845833!2d21.2234961?entry=ttu" />
           </div>
         </div>
       </div>

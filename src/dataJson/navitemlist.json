@@ -42,35 +42,12 @@
         "key": "blog"
     },
     {
-        "title": "Pages",
-        "link": "/",
-        "key": "pages",
+        "title": "Contact",
+        "link": "/contact",
+        "key": "contact",
         "childern": [
-            {
-                "title": "Contact",
-                "link": "/contact",
-                "key": "contact"
-            },
-            {
-                "title": "Reservations",
-                "link": "/reservations",
-                "key": "reservations"
-            },
-            {
-                "title": "gallery",
-                "link": "/gallery",
-                "key": "gallery"
-            },
-            {
-                "title": "Error Pages",
-                "link": "/error-pages",
-                "key": "errorpages"
-            },
-            {
-                "title": "Comming Soon",
-                "link": "/comming-soon",
-                "key": "commingsoon"
-            }
+           
+           
         ]
     }
 ]
