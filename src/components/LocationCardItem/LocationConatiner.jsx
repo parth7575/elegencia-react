@@ -23,9 +23,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title"> Nana Varaccha</h6>
+            <p className="card-subtext">101,102</p>
+            <p> Gelani park,ST</p>
             <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4 style-1">
@@ -45,9 +45,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title"> Parvat patiya</h6>
+            <p className="card-subtext">GF, The palace</p>
+            <p> Parvatgam,ST.</p>
             <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4">
@@ -67,9 +67,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title">VIP Road</h6>
+            <p className="card-subtext"> GF, Ornate House</p>
+            <p> Althan,ST</p>
             <p>info@elegencia.com </p>
           </div>
         </div>
@@ -94,9 +94,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title"> Jahangirpura</h6>
+            <p className="card-subtext">GF, Blue Eminence</p>
+            <p> Morabhagal Circle, ST</p>
             <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4 style-1">
@@ -116,9 +116,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title"> Katargam</h6>
+            <p className="card-subtext">119,Laxmi Enclave</p>
+            <p> opp, Gajera School, ST</p>
             <p>info@elegencia.com </p>
           </div>
           <div className="location-card-item col-4">
@@ -138,9 +138,9 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
+            <h6 className="card-title"> Kamrej</h6>
+            <p className="card-subtext">GF, Kashi Plaza</p>
+            <p> Opp, Sigent Mall, ST</p>
             <p>info@elegencia.com </p>
           </div>
         </div>
