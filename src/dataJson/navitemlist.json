@@ -44,10 +44,6 @@
     {
         "title": "Contact",
         "link": "/contact",
-        "key": "contact",
-        "childern": [
-           
-           
-        ]
+        "key": "contact"
     }
 ]
