@@ -28,8 +28,8 @@
         "name": "Craig Martin",
         "img": "/assets/img/chef/chef_2.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "My culinary journey at Elegencia has been a remarkable fusion of creativity, refinement, and hospitality. As an Italian chef, I have had the privilege of infusing the elegance of Italian cuisine with the sophisticated dining experience that defines Elegencia. From the moment guests step through the doors, they are enveloped in an ambiance of luxury and culinary delight. At Elegencia, I have had the opportunity to showcase my expertise in crafting exquisite Italian dishes, each one meticulously prepared to tantalize the senses and delight the palate. Whether orchestrating elaborate multi-course tasting menus or curating seasonal specialties that showcase the freshest local ingredients, my goal is to elevate the dining experience to new heights of excellence. ",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
@@ -47,8 +47,8 @@
     },
     {
         "id": 3,
-        "posation": "French Specialist",
-        "name": "HIREN PATEL",
+        "posation": "Indian Specialist",
+        "name": "HIRAL PATEL",
         "img": "/assets/img/chef/chef_3.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
@@ -74,8 +74,8 @@
         "name": "Andrew Cannon",
         "img": "/assets/img/chef/chef_4.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "shortDesp": "My tenure at Elegencia has been a remarkable journey of culinary refinement and hospitality excellence. As an Italian chef, I have had the privilege of infusing the sophistication of Elegencia's dining experience with the timeless flavors of Italy. Elegencia's commitment to excellence aligns perfectly with my own culinary philosophy, allowing me to craft dishes that not only delight the palate but also evoke a sense of luxury and refinement. Working in Elegencia's esteemed kitchen, I have had the opportunity to collaborate with a talented team of professionals, ensuring that every dish reflects the highest standards of quality and creativity. Whether orchestrating elegant multi-course dinners for discerning guests or curating exquisite tasting menus that showcase the finest ingredients, I take pride in delivering a culinary experience that exceeds expectations.",
+        "desp": "",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
@@ -116,7 +116,7 @@
     },
     {
         "id": 6,
-        "posation": "Michael Laseter",
+        "posation": "Indian Specialist",
         "name": "Michael Laseter",
         "img": "/assets/img/chef/chef_6.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
