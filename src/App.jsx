@@ -12,6 +12,7 @@ import Chefdetails from "./pages/Chefdetails";
 import Portfoliodetails from "./pages/Portfoliodetails";
 import Blog from "./pages/Blog";
 import Blogdetails from "./pages/Blogdetails";
+import Reservations from "./pages/Reservations";
 
 export default function App() {
   return (
@@ -31,6 +32,7 @@ export default function App() {
         <Route path="/blog" element={<Blog />}></Route>
         <Route path="/blog-details/:id" element={<Blogdetails />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
+        <Route path="/Reservations" element={<Reservations />}></Route>
       </Route>
     </Routes>
   );
