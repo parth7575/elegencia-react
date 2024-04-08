@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "data": "15 June 2023",
+        "data": "15 April 2024",
         "postUser": "Marlow",
-        "title": "Indulge in Exquisite Dining",
+        "title": "Tangy Temptation: Dahi Chaat",
         "img": "/assets/img/blog/blog_detalis.jpg",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+        "desp": "Dahi chaat is a popular Indian street food delicacy known for its tantalizing blend of flavors and textures. It consists of crispy fried dough balls (known as puris) topped with creamy yogurt, tangy tamarind chutney, zesty spices, crunchy sev (fried chickpea noodles), and fresh cilantro. This savory and refreshing snack offers a delightful balance of sweet, sour, and spicy notes, making it a beloved choice for a quick bite or appetizer.",
+        "testimonial": "Absolutely mouthwatering! Dahi Chaat from this vendor is an explosion of flavors in every bite. The crispy puris combined with the creamy yogurt and tangy chutney create a perfect harmony of taste sensations. A must-try for anyone craving authentic Indian street food! - Priya S.",
+        "shortTitle": "Yogurt Delight: Dahi Chaat",
+        "shortDesc": "Dahi chaat is a beloved Indian street food featuring crispy puris topped with creamy yogurt, tangy tamarind chutney, spices, and crunchy sev. A harmonious blend of sweet, sour, and spicy flavors, it's a delightful snack loved for its vibrant taste and texture.",
+        "shortDescTwo": "Savor the exquisite blend of crispy puris, velvety yogurt, tangy tamarind chutney, and aromatic spices in Dahi Chaat—a culinary delight that tantalizes the taste buds with every bite.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
         "comment": [
             {
