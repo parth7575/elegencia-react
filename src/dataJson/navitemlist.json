@@ -2,19 +2,7 @@
     {
         "title": "Home",
         "link": "/",
-        "key": "home",
-        "childern": [
-            {
-                "title": "Home 1",
-                "link": "/",
-                "key": "home1"
-            },
-            {
-                "title": "Home 2",
-                "link": "/home2",
-                "key": "home2"
-            }
-        ]
+        "key": "home"
     },
     {
         "title": "About",
