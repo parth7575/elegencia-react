@@ -50,7 +50,6 @@
     },
     {
         "id": 2,
-<<<<<<< Updated upstream
         "data": "15 April 2024",
         "postUser": "NISHI",
         "title": "Garden Symphony: Mix Veg Salad",
@@ -61,18 +60,6 @@
         "shortDesc": "Freshness on a Plate: Our Mix Veg Salad boasts a colorful array of crisp vegetables tossed in a tangy dressing, offering a refreshing and nutritious delight in every bite.",
         "shortDescTwo": "Wholesome Crunch: Dive into our Mix Veg Salad featuring a vibrant mix of seasonal veggies, providing a satisfying crunch paired with a burst of flavor for a guilt-free indulgence.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "data": "15 June 2023",
-        "postUser": "Marlow",
-        "title": "Indulge in Exquisite Dining",
-        "img": "/assets/img/blog/blog_details1.jpg",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video1.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -112,7 +99,6 @@
     },
     {
         "id": 3,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Veggie Delight: Tikka Fusion",
         "data": "15 April 2024",
@@ -123,18 +109,6 @@
         "shortDesc": "Savor the sizzle with our Spiced Veggie Tikka, a tantalizing blend of marinated vegetables grilled to perfection, offering a burst of flavor in every bite.",
         "shortDescTwo": "Indulge in the ultimate vegetarian delight – our Spiced Veggie Tikka. Each mouthful promises a harmonious fusion of smoky char and aromatic spices, leaving you craving more.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details2.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "data": "15 June 2023",
-        "postUser": "Marlow",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video2.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -176,7 +150,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 4,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Velvety Delight: Dal Makhani",
         "desp": "Savor the luxurious flavors of our Dal Makhani, a classic North Indian dish renowned for its rich and creamy texture. Slow-cooked black lentils and kidney beans simmered with aromatic spices and finished with a touch of cream, creating a dish that's indulgently smooth and deeply satisfying. Perfect as a comforting main course or a side to elevate any meal.",
@@ -185,16 +158,6 @@
         "shortDesc": "Indulge in creamy perfection with our Dal Makhani – a divine blend of slow-cooked lentils, aromatic spices, and a hint of cream, delivering a luxurious taste experience.",
         "shortDescTwo": "Satisfy your cravings with Dal Makhani, where velvety lentils and rich flavors come together to create a dish that's both comforting and unforgettable.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details3.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video3.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -236,7 +199,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 5,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Garlic Elegance: Aglio e Olio",
         "desp": "Experience the simple yet exquisite flavors of our Aglio e Olio, a classic Italian pasta dish. Made with al dente spaghetti tossed in extra virgin olive oil, garlic, and red pepper flakes, every forkful is a symphony of savory garlic and subtle heat. This timeless recipe embodies the essence of Italian cuisine - simple, flavorful, and utterly satisfying.",
@@ -245,16 +207,6 @@
         "shortDesc": "Savor simplicity with our Aglio e Olio: al dente spaghetti dressed in garlic-infused olive oil, a timeless Italian classic that's both elegant and comforting.",
         "shortDescTwo": "Discover the essence of Italian cuisine in every bite of our Aglio e Olio. With just a handful of ingredients, this dish delivers bold flavors and undeniable satisfaction.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details4.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video4.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -297,7 +249,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 6,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Green Fusion: Paneer Broccoli Delight",
         "desp": "Experience the perfect marriage of flavors and textures with our Paneer Broccoli Delight. Tender chunks of paneer and vibrant broccoli florets are stir-fried to perfection in a medley of aromatic spices, creating a dish that's both nutritious and delicious. Whether you're a paneer enthusiast or a broccoli lover, this flavorful fusion will leave your taste buds craving more.",
@@ -306,16 +257,6 @@
         "shortDesc": "A delightful fusion of flavors: our Paneer Broccoli dish combines tender paneer with crisp broccoli, creating a perfect balance of textures and tastes.",
         "shortDescTwo": "Experience the best of both worlds with our Paneer Broccoli: a delicious blend of creamy paneer and vibrant broccoli, seasoned to perfection.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details5.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video5.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -357,7 +298,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 7,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Cheesy Bliss: Gourmet Burger",
         "desp": "Indulge in cheesy perfection with our Gourmet Cheese Burger. Featuring a succulent beef patty topped with gooey melted cheese, crisp lettuce, juicy tomato slices, and tangy pickles, all sandwiched between a soft, toasted bun. Every bite is a symphony of flavors and textures, making it the ultimate comfort food experience. Whether you're a cheese enthusiast or a burger aficionado, this mouthwatering delight is sure to satisfy your cravings.",
@@ -366,16 +306,6 @@
         "shortDesc": "Savor the classic: our Cheeseburger boasts a juicy beef patty topped with melted cheese, nestled between soft buns for a mouthwatering delight.",
         "shortDescTwo": "Experience burger perfection: our Cheeseburger combines savory beef, gooey cheese, and fresh toppings for a crave-worthy treat that hits all the right notes.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details6.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video6.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -417,7 +347,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 8,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Crispy Delight: Spring Rolls",
         "desp": "Delight in the crispy goodness of our Spring Rolls, a beloved appetizer bursting with flavor and texture. Encased in a delicate, golden-brown wrapper, each bite unveils a savory filling of fresh vegetables and aromatic spices, perfectly complemented by a side of tangy dipping sauce. Whether enjoyed as a snack or starter, our Spring Rolls promise a delightful culinary experience that's sure to leave you craving more.",
@@ -426,16 +355,6 @@
         "shortDesc": "Crispy Veggie Rolls: A flavorful blend of fresh vegetables encased in a golden wrapper, served with a tangy dip.",
         "shortDescTwo": "Savor the Crunch: Our Spring Rolls offer a crispy exterior and a deliciously savory filling, perfect for a quick snack or appetizer.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details7.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video7.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
@@ -477,7 +396,6 @@
         "data": "15 April 2024",
         "postUser": "NISHI",
         "id": 9,
-<<<<<<< Updated upstream
         "img": "/assets/img/blog/blog_detalis.jpg",
         "title": "Guacamole Fiesta: Avocado Burrito",
         "desp": "Embark on a taste adventure with our Guacamole Fiesta: the Avocado Burrito. Bursting with creamy avocado, savory black beans, tender rice, and zesty salsa, all wrapped snugly in a warm tortilla. This culinary delight offers a symphony of flavors and textures, making each bite a fiesta for your taste buds. Indulge in the freshness and vibrancy of this delicious creation, perfect for any meal of the day.",
@@ -486,16 +404,6 @@
         "shortDesc": "Creamy Avocado Wrap: Our burrito features creamy avocado, savory black beans, and zesty salsa, wrapped in a warm tortilla for a burst of flavor in every bite.",
         "shortDescTwo": "Avocado Burrito: A delicious blend of creamy avocado, hearty black beans, and tangy salsa, wrapped in a tortilla for a satisfying meal on the go.",
         "videoImg": "/assets/img/blog/blog_details_video.jpg",
-=======
-        "img": "/assets/img/blog/blog_details8.jpg",
-        "title": "Indulge in Exquisite Dining",
-        "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.",
-        "shortTitle": "Indulge in Exquisite Dining",
-        "shortDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "shortDescTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "videoImg": "/assets/img/blog/blog_details_video8.jpg",
->>>>>>> Stashed changes
         "comment": [
             {
                 "authorImg": "/assets/img/blog/author.png",
