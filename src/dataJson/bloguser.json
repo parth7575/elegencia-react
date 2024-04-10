@@ -62,7 +62,7 @@
         "videoImg": "/assets/img/blog/blog_details_video1.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author1.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": "Nrali joshi",
@@ -111,7 +111,7 @@
         "videoImg": "/assets/img/blog/blog_details_video2.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author2.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": " Payal Dave",
@@ -160,7 +160,7 @@
         "videoImg": "/assets/img/blog/blog_details_video3.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author3.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": " Georgia Steven",
@@ -209,7 +209,7 @@
         "videoImg": "/assets/img/blog/blog_details_video4.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author4.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": " salima",
@@ -259,7 +259,7 @@
         "videoImg": "/assets/img/blog/blog_details_video5.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author5.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": " Sarah Taylor",
@@ -308,7 +308,7 @@
         "videoImg": "/assets/img/blog/blog_details_video6.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author6.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": " vidhi patel",
@@ -357,7 +357,7 @@
         "videoImg": "/assets/img/blog/blog_details_video7.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author7.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": "Kinjal Lad",
@@ -406,7 +406,7 @@
         "videoImg": "/assets/img/blog/blog_details_video8.jpg",
         "comment": [
             {
-                "authorImg": "/assets/img/blog/author.png",
+                "authorImg": "/assets/img/blog/author8.png",
                 "blogId": 1,
                 "blogUserId": 1,
                 "name": "Nisha Jani",
