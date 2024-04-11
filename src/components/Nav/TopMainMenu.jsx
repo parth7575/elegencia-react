@@ -71,8 +71,8 @@ export default function TopMainMenu(props) {
 
         <div className="nav-toggles" onClick={showTopnav}>
           <span
-            id="navBar"
-            className={`ak-munu_toggles-top ${showTopNavFullScreen}`}
+            //id="navBar"
+           // className={`ak-munu_toggles-top ${showTopNavFullScreen}`}
           >
             <span></span>
           </span>
