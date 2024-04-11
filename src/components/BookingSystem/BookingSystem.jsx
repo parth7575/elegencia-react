@@ -22,6 +22,24 @@ export default function BookingSystem(props) {
   return (
     <div className="booking-system-form">
       <form className={bookingStyle} onSubmit={handleSubmit}>
+      <div className="from-input d-flex gap-2">
+        <input
+          placeholder="Name"
+          className="w-50"
+          type="text"
+          name="fristname"
+          value={inputs.fristname || ""}
+          onChange={handleChange}
+        />
+        <input
+          placeholder="Email"
+          className="w-50"
+          type="email"
+          name="email"
+          value={inputs.email || ""}
+          onChange={handleChange}
+        />
+      </div>
         <div className="select">
           <select
             className="ak-form-select"
