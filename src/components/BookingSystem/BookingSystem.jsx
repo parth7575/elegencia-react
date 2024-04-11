@@ -25,7 +25,7 @@ export default function BookingSystem(props) {
       <div className="from-input d-flex gap-2">
         <input
           placeholder="Name"
-          className="w-50"
+          className="w-50 custom-text"
           type="text"
           name="fristname"
           value={inputs.fristname || ""}
@@ -33,7 +33,7 @@ export default function BookingSystem(props) {
         />
         <input
           placeholder="Email"
-          className="w-50"
+          className="w-50 custom-text"
           type="email"
           name="email"
           value={inputs.email || ""}
