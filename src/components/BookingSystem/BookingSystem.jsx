@@ -79,7 +79,7 @@ export default function BookingSystem(props) {
               type="time"
               name="time"
               id="time"
-              value={inputs.time || "04:05"}
+              value={inputs.time || "16:05"}
               onChange={handleChange}
             />
             <div className="time-icon">
