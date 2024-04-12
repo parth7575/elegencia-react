@@ -20,8 +20,8 @@ export default function BookingSystem(props) {
         'name':event.target.fristname.value,
         'email':event.target.email.value,
         'option':event.target.option.value,
-        'time':event.target.time.value,
-        'date':event.target.date.value,
+        'timeorder':event.target.time.value,
+        'dateorder':event.target.date.value,
       }
       console.log(inputs)
       const response = await axios.post('https://camperapi.rigicgspl.com/api/camper/sendmail', inputs);
