@@ -1,6 +1,7 @@
-import classNames from "classnames";
-import React, { useState } from "react";
-import { SubmitButton } from "../Button/Button";
+import axios from 'axios';
+import classNames from 'classnames';
+import React, { useState } from 'react';
+import { SubmitButton } from '../Button/Button';
 
 export default function BookingSystem(props) {
   const [inputs, setInputs] = useState({});
@@ -10,36 +11,59 @@ export default function BookingSystem(props) {
     setInputs((values) => ({ ...values, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
+    
     event.preventDefault();
-    alert("Data send successfully");
+
+    try {
+      var inputs={
+        'name':event.target.fristname.value,
+        'email':event.target.email.value,
+        'option':event.target.option.value,
+        'time':event.target.time.value,
+        'date':event.target.date.value,
+      }
+      console.log(inputs)
+      const response = await axios.post('https://camperapi.rigicgspl.com/api/camper/sendmail', inputs);
+      
+      if (response.status === 200) {
+        alert('Reservation successful!');
+        // Clear the form after successful submission
+        setInputs({});
+      } else {
+        throw new Error('Failed to submit reservation');
+      }
+    } catch (error) {
+      console.error('Error submitting reservation:', error);
+      alert('Failed to submit reservation. Please try again later.');
+    }
   };
 
-  const bookingStyle = classNames("booking-system-form ", {
-    "style-2": props?.styleTwo,
+  const bookingStyle = classNames('booking-system-form ', {
+    'style-2': props?.styleTwo,
   });
 
   return (
     <div className="booking-system-form">
       <form className={bookingStyle} onSubmit={handleSubmit}>
-      <div className="from-input d-flex gap-2">
-        <input
-          placeholder="Name"
-          className="w-50 custom-text"
-          type="text"
-          name="fristname"
-          value={inputs.fristname || ""}
-          onChange={handleChange}
-        />
-        <input
-          placeholder="Email"
-          className="w-50 custom-text"
-          type="email"
-          name="email"
-          value={inputs.email || ""}
-          onChange={handleChange}
-        />
-      </div>
+        <div className="from-input d-flex gap-2">
+          <input
+            placeholder="Name"
+            className="w-50 custom-text"
+            type="text"
+            name="fristname"
+            value={inputs.fristname || ""}
+            onChange={handleChange}
+          />
+          <input
+            placeholder="Email"
+            className="w-50 custom-text"
+            type="email"
+            name="email"
+            value={inputs.email || ""}
+            onChange={handleChange}
+          />
+        </div>
         <div className="select">
           <select
             className="ak-form-select"
@@ -164,10 +188,17 @@ export default function BookingSystem(props) {
             </div>
           </div>
         </div>
+        
         {!props?.styleTwo && (
           <div className="ak-height-50 ak-height-lg-30"></div>
         )}
-        <SubmitButton>Reservations</SubmitButton>
+          <button type="submit">Reservations</button>
+        {/* <div
+          className="ak-btn style-5"
+        >
+        
+        </div>
+         */}
       </form>
     </div>
   );

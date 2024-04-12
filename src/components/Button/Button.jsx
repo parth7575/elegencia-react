@@ -21,7 +21,7 @@ export function WhiteButton(props) {
 
 export function SubmitButton(props) {
   return (
-    <div className="ak-btn style-5">
+    <div type="submit" className="ak-btn style-5">
       <button type="submit">{props.children}</button>
     </div>
   );
