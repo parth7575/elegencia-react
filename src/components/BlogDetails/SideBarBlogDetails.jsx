@@ -47,12 +47,12 @@ export default function SideBarBlogDetails(props) {
       <div className="author-info">
         <img
           className="author-img"
-          src="/assets/img/blog/author.png"
+          src="/assets/img/blog/author9.png"
           alt="..."
         />
-        <h6 className="author-title">Baskerville</h6>
+        <h6 className="author-title">Ayushi Vashi</h6>
         <p className="author-text">
-          I'm are lorem ipsum pass <br /> ages of available,
+          <br /> 
         </p>
         <a href="https://www.facebook.com/" className="author-icon">
           <svg
