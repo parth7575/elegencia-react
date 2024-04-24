@@ -125,7 +125,7 @@ export default function Footer() {
               </div>
               <div className="footer-address">
                 <a
-                  href="https://maps.app.goo.gl/gAd1JdfRW5d6eHkn7"
+                  href="https://www.google.com/maps/place/The+D+Pizza/@21.2354116,72.8088314,13z/data=!4m10!1m2!2m1!1sthe+d+pizza!3m6!1s0x3be04f4a01c568eb:0x5bbaa4793a72c308!8m2!3d21.2234961!4d72.8845833!15sCgt0aGUgZCBwaXp6YSIDiAEBWg0iC3RoZSBkIHBpenphkgEQcGl6emFfcmVzdGF1cmFudOABAA!16s%2Fg%2F11f88q367_?entry=ttu"
                   target="_blank"
                 >
                   {Footertext.addressone}
